@@ -11,7 +11,7 @@ const data = {
     {
       institution: "University of Peradeniya",
       degree: "B.Sc. Eng. (Hons) in Computer Engineering",
-      details: "CGPA: 3.59/4.00",
+      details: "CGPA: 3.60/4.00",
     },
     {
       institution: "Jaffna Hindu College",

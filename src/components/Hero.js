@@ -28,7 +28,7 @@ function Hero() {
               View Projects
             </a>
             <a
-              href={`${process.env.PUBLIC_URL}/cv.pdf`}
+              href={`E20099_Eniyavan.pdf`}
               className="btn btn--secondary"
               target="_blank"
               rel="noopener noreferrer"
