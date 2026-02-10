@@ -37,9 +37,11 @@ function ProjectCard({ project, index }) {
       <a
         href={project.githubUrl}
         className="project-card__link"
+        target="_blank"
+        rel="noopener noreferrer"
         aria-label={`View ${project.title} on GitHub`}
       >
-        GitHub (placeholder)
+        View on GitHub
         <HiExternalLink />
       </a>
     </motion.article>

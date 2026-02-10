@@ -54,7 +54,7 @@ const data = {
         "C++",
         "Git",
       ],
-      githubUrl: "#",
+      githubUrl: "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
     },
     {
       id: 2,
@@ -68,7 +68,7 @@ const data = {
         "Dashboards",
       ],
       technologies: ["Spring Boot", "Java", "MySQL", "REST APIs", "JavaScript"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/dranzercruz/Non-academic-staff-master",
     },
     {
       id: 3,
@@ -89,7 +89,7 @@ const data = {
         "OpenCV",
         "Python",
       ],
-      githubUrl: "#",
+      githubUrl: "https://github.com/dranzercruz/Sign-Language-Recognition/tree/master",
     },
   ],
   research: {
