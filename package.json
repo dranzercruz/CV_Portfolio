@@ -1,6 +1,7 @@
 {
   "name": "CV_Portfolio",
   "version": "1.0.0",
+  "homepage": "https://dranzercruz.github.io/CV_Portfolio",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
