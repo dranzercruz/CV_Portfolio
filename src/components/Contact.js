@@ -39,7 +39,7 @@ function Contact() {
             viewport={{ once: true }}
           >
             <a
-              href={`eniyavanthirumaran@gmail.com`}
+              href={`mailto:eniyavanthirumaran@gmail.com`}
               className="contact__link"
               aria-label="Email"
             >
@@ -58,7 +58,7 @@ function Contact() {
               <HiExternalLink className="contact__external" />
             </a>
             <a
-              href={`www.linkedin.com/in/eniyavanthirumaran`}
+              href={`https://www.linkedin.com/in/eniyavanthirumaran/`}
               target="_blank"
               rel="noopener noreferrer"
               className="contact__link"
